@@ -1,3 +1,7 @@
 she is a good girl
 really good
+<<<<<<< HEAD
 we love you
+=======
+miss u alot
+>>>>>>> abid
